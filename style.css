@@ -8,3 +8,16 @@ body::before{
     width: 100px;
     height: 100px;
 }
+
+.siparis{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg-img{
+    width: 100%;
+    margin-top: 25px;
+}
+
