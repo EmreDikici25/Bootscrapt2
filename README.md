@@ -1,1 +1,3 @@
 # zekiPro
+
+hayırlı olsun
