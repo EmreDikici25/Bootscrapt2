@@ -17,7 +17,21 @@ body::before{
 }
 
 .bg-img{
-    width: 100%;
-    margin-top: 25px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 35px;
 }
 
+.brosur{
+    width: 80%;
+    margin-left: 10%;
+    
+}
+
+.text-color:hover{
+    color: green!important;
+}
+
+.nav-container{
+    margin: 0 120px;
+}
